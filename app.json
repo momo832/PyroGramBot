@@ -22,15 +22,15 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "1548292"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "dd0af014e72d55fba13efbdc4507434f"
     },
     "HU_STRING_SESSION": {
       "description": "Generate this value by running python3 GenerateStringSession.py locally",
-      "value": ""
+      "value": "skip"
     },
     "COMMAND_HAND_LER": {
       "description": "specify command handler that should be used for the plugins",
